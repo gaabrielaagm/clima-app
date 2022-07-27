@@ -5,7 +5,7 @@ const Formulario = () => {
 
     useEffect(() => {
         setBusqueda({
-            ciudad: 'Guadalajara', 
+            ciudad: 'Aguascalientes', 
             pais: 'MX'
         })
     }, [])
